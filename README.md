@@ -21,3 +21,10 @@ Step 1: Convolution
 Step 2: Pooling - # Adding more convolutional layers
 Step 3: Flattening 
 Step 4: Full connection
+
+
+Installation:
+Install Tensorflow using pip install tensorflow 
+Install sklearn using sudo pip install sklearn 
+Install keras using sudo pip install keras 
+Install skimage using sudo pip install scikit-image 
