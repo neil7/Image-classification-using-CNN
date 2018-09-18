@@ -1,0 +1,3 @@
+Features - 64,64
+Epochs - 25
+Steps - 8000

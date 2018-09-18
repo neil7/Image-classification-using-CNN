@@ -1,0 +1,4 @@
+Epochs - 5
+Steps_per_epoch = 8000
+convoluitonla layer = 2
+features - 64,64

@@ -1,0 +1,4 @@
+Features size - 100, 100
+Epochs - 25
+Steps_per_epochs - 8000
+Convolutional Layer - 3

@@ -1,0 +1,4 @@
+Epochs - 25
+Steps_per_epochs = 8000
+features - 64,64
+Convolutional layer = 2
